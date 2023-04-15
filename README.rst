@@ -18,6 +18,8 @@ Read this in `简体中文`_ (simplified Chinese), `日本語`_ (Japanese), `한
 (Korean) and `Spanish`_. NOTE: these have not been reviewed by the alex/what-happens-when
 maintainers.
 
+
+
 Table of Contents
 ====================
 
@@ -688,6 +690,10 @@ Plugins such as Flash or Java may execute as well, although not at this time on
 the Google homepage. Scripts can cause additional network requests to be
 performed, as well as modify the page or its layout, causing another round of
 page rendering and painting.
+
+In Summary
+-----------
+When you enter "google.com" into a web browser, the browser uses TCP/IP to establish a connection with the server that hosts the website. Here's what happens in more detail: The browser sends a request to the server using IP to establish a connection.
 
 .. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
 .. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
